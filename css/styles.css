@@ -1,0 +1,84 @@
+body {
+  background-color: #defcfc;
+}
+
+
+img {
+  border-radius: 50%;
+  height: auto;
+  width: 75%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-top-color: #a6e3e9;
+  border-top-width: 7px;
+}
+
+h1 {
+  color: #127681;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+}
+
+h3 {
+    color: #127681;
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+  color: #33313b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+}
+
+li {
+  color: #33313b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+}
+
+th {
+  color: #33313b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+}
+td {
+  color: #33313b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+}
+
+label {
+  color: #33313b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+}
+
+input {
+  height: 12px;
+  width: 200px;
+  margin: 12px 24px
+}
+
+input[type=text] {
+  width: 200px;
+  margin-left: 22px;
+}
+
+input[type=Submit] {
+  font-family: 'Montserrat', sans-serif;
+  height: 30px;
+  width: 90px;
+  margin: 12px 24px;
+}
+
+textarea {
+  margin: 12px 24px;
+  width: 273px;
+  height: 100px;
+  resize: none;
+  border-radius: 2px;
+}
